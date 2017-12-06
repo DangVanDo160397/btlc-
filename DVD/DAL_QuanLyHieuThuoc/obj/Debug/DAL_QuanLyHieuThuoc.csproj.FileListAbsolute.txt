@@ -1,0 +1,7 @@
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\bin\Debug\DAL_QuanLyHieuThuoc.dll
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\bin\Debug\DAL_QuanLyHieuThuoc.pdb
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\obj\Debug\DAL_QuanLyHieuThuoc.dll
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\obj\Debug\DAL_QuanLyHieuThuoc.pdb
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\obj\Debug\DAL_QuanLyHieuThuoc.csprojResolveAssemblyReference.cache
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\bin\Debug\DTO_QuanLyHieuThuoc.dll
+D:\hoctap\Ky1-nam3\c#\btl\DVD\DAL_QuanLyHieuThuoc\bin\Debug\DTO_QuanLyHieuThuoc.pdb
